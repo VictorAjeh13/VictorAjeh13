@@ -2,8 +2,8 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SIEM Homelab]
+  - [Active Directory Homelab]()
+  - [SIEM Homelab](https://github.com/VictorAjeh13/SiemHomelab)
   - [Vulnerability Mangament Homelab]
   
  
