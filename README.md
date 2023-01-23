@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Victor! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/victor-ajeh-19191820a//">Cybersecurity Professional</a> 
 
 <h2>💻 Cybersecurity Projects:</h2>
 
@@ -22,8 +22,7 @@
 
 [twitter]: https://twitter.com/Victor_Ajeh13
 [youtube]: https://www.youtube.com/channel/UC2G_UT0JtM0QLjiGaGihO1A
-[linkedin]:https://www.linkedin.com/in/dubem-ajeh-19191820a/
-
+[linkedin]:https://www.linkedin.com/in/victor-ajeh-19191820a/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
